@@ -1,0 +1,23 @@
+a:link, a:visited {
+    background-color: lightblue;
+    padding: 8px 10px;
+    text-decoration: none;
+    color: white;
+    
+  }	
+  a:hover, a:active{
+      background-color: grey;
+  }
+
+  p4{
+      color: lightcoral;
+  }
+
+#site{
+    text-align: center;
+    padding: 10px ;
+    font-size: 25px;
+    
+}
+
+
